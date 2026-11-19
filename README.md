@@ -1,4 +1,4 @@
-# `<isi: nama UMKM>`: `<isi: judul singkat solusi, misalnya "Tiket Servis Digital">`
+# `Kedai Kopi Senja`: `<isi: judul singkat solusi, misalnya "Tiket Servis Digital">`
 
 > [!IMPORTANT]
 > **Isi saat kickoff, lalu jadikan commit pertama kamu.** Bagian yang wajib terisi di commit pertama: **1. Identitas**, **2. Kasus**, dan **3. Data lapangan** (kolom "Rencana" saja). Hapus setiap teks `<isi: ...>` seutuhnya (termasuk tanda `< >`), lalu tulis isianmu sendiri di tempatnya. Bagian lain diisi bertahap sesuai minggu di **Timeline**.
